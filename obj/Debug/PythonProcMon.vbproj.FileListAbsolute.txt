@@ -1,0 +1,13 @@
+D:\Vlad\PythonProcMon\bin\Debug\PythonProcMon.exe.config
+D:\Vlad\PythonProcMon\bin\Debug\PythonProcMon.exe
+D:\Vlad\PythonProcMon\bin\Debug\PythonProcMon.pdb
+D:\Vlad\PythonProcMon\bin\Debug\PythonProcMon.xml
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.vbproj.AssemblyReference.cache
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.vbproj.SuggestedBindingRedirects.cache
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.Form1.resources
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.Resources.resources
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.vbproj.GenerateResource.cache
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.vbproj.CoreCompileInputs.cache
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.exe
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.xml
+D:\Vlad\PythonProcMon\obj\Debug\PythonProcMon.pdb
